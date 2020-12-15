@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Tsisa_lab05" targetName="Tsisa_lab05" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f17d352c-1138-4981-bbb4-c1721fb08ccc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lNmJsDCulaYZ0n8jqtwBY0iSEp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tsisa_lab06" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tsisa_lab05" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Tsisa_lab05" TARGET_NAME="Tsisa_lab05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Tsisa_lab05" RUN_TARGET_NAME="Tsisa_lab05">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f17d352c-1138-4981-bbb4-c1721fb08ccc" name="Default Changelist" comment="" />
+      <created>1607445854974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607445854974</updated>
+      <workItem from="1607445857858" duration="1760000" />
+      <workItem from="1607447646169" duration="761000" />
+      <workItem from="1607449062115" duration="378000" />
+      <workItem from="1607449477112" duration="1785000" />
+      <workItem from="1607474512932" duration="23000" />
+      <workItem from="1607560915393" duration="19000" />
+      <workItem from="1607560967140" duration="798000" />
+      <workItem from="1607580475673" duration="10000" />
+      <workItem from="1607958918028" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1607958931749">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/460.1080.1000.504@0.0.1920.1040" timestamp="1607448408257" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607958931749" />
+    <state x="836" y="417" key="Github.ShareDialog" timestamp="1607445928787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="836" y="417" key="Github.ShareDialog/0.0.1920.1040/460.1080.1000.504@0.0.1920.1040" timestamp="1607445928787" />
+    <state x="762" y="217" key="Github.UntrackedFilesDialog" timestamp="1607445943049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="762" y="217" key="Github.UntrackedFilesDialog/0.0.1920.1040/460.1080.1000.504@0.0.1920.1040" timestamp="1607445943049" />
+    <state width="1877" height="113" key="GridCell.Tab.0.bottom" timestamp="1607448410051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="113" key="GridCell.Tab.0.bottom/0.0.1920.1040/460.1080.1000.504@0.0.1920.1040" timestamp="1607448410051" />
+    <state width="1877" height="113" key="GridCell.Tab.0.center" timestamp="1607448410051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="113" key="GridCell.Tab.0.center/0.0.1920.1040/460.1080.1000.504@0.0.1920.1040" timestamp="1607448410051" />
+    <state width="1877" height="113" key="GridCell.Tab.0.left" timestamp="1607448410050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="113" key="GridCell.Tab.0.left/0.0.1920.1040/460.1080.1000.504@0.0.1920.1040" timestamp="1607448410050" />
+    <state width="1877" height="113" key="GridCell.Tab.0.right" timestamp="1607448410051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="113" key="GridCell.Tab.0.right/0.0.1920.1040/460.1080.1000.504@0.0.1920.1040" timestamp="1607448410051" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607445916287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/460.1080.1000.504@0.0.1920.1040" timestamp="1607445916287" />
   </component>
 </project>
